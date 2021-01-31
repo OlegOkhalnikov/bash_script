@@ -1,1 +1,2 @@
-# bash_script © Oleg Okhalnikov
+My bash scripts 
+© Oleg Okhalnikov
