@@ -1,2 +1,2 @@
-My bash scripts 
+My bash scripts <br />
 © Oleg Okhalnikov
